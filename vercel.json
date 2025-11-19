@@ -11,9 +11,5 @@
       "src": "/(.*)",
       "dest": "api/index.py"
     }
-  ],
-  "env": {
-    "API_KEY": "julia-math-tutor-2024",
-    "REQUIRE_API_KEY": "false"
-  }
+  ]
 }
